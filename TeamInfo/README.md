@@ -1,14 +1,14 @@
-# Project Title
+**House price prediction using property features**
 
 ## Team Information
 
-### Team Name
-*Replace this with your team name*
+### 3 bhai teno tabahi
+
 
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+1. Amrit adhikari(aadhikari2157-tech)*
+2. Sampanna malla(chesz4724-lang)*
+3. Nikhil chauhan(nikhilchauhan1342)*
 
 ### Task Division
 - **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
